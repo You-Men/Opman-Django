@@ -1,5 +1,5 @@
 Django
-Celery==3.1.25
+Celery==5.2.2
 django-celery
 celery-with-redis
 djangorestframework
